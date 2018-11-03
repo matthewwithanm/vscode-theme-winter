@@ -337,7 +337,7 @@
       "scope": "markup.heading",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#800000"
+        "foreground": "#2C36E8"
       }
     },
     {
@@ -355,13 +355,13 @@
     {
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#a31515"
+        "foreground": "#F36F69"
       }
     },
     {
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#0451a5"
+        "foreground": "#703FDE"
       }
     },
     {
@@ -370,7 +370,7 @@
         "beginning.punctuation.definition.list.markdown"
       ],
       "settings": {
-        "foreground": "#0451a5"
+        "foreground": "#318FFF"
       }
     },
     {
