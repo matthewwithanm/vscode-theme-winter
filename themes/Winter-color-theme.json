@@ -1,6 +1,6 @@
 {
   "name": "Winter",
-	"type": "light",
+  "type": "light",
   "colors": {
     // Code colors
     // @plum: #a71d5d;
@@ -859,6 +859,18 @@
       "settings": {
         "foreground": "#2C36E8",
         "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "Function and Method Declarations",
+      "scope": [
+        "meta.definition.method",
+        "meta.definition.function",
+        "meta.definition.variable entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#2C36E8",
+        "fontStyle": "bold"
       }
     }
   ]
