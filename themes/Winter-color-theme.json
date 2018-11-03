@@ -828,10 +828,11 @@
       }
     },
     {
-      "name": "Import Keyword",
+      "name": "Import and Export",
       "scope": [
         "keyword.control.import",
         "keyword.control.from",
+        "keyword.control.export",
         "storage.type.function.arrow"
       ],
       "settings": {
