@@ -1,0 +1,22 @@
+{
+    "name": "vscode-theme-winter",
+    "displayName": "Winter Theme",
+    "description": "This is a light theme inspired by Chris Thomas's Mac Classic TextMate theme. It uses the cool colors for syntax highlighting and reserves the warm colors (mostly) for errors.",
+    "version": "0.0.1",
+    "publisher": "matthewwithanm",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Winter",
+                "uiTheme": "vs",
+                "path": "./themes/Winter-color-theme.json"
+            }
+        ]
+    }
+}
