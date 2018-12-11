@@ -25,6 +25,7 @@
     "editorIndentGuide.activeBackground": "#939393",
     "editorIndentGuide.background": "#d3d3d3",
     "editorSuggestWidget.background": "#f3f3f3",
+    "editorLineNumber.foreground": "#999988BF",
     "input.placeholderForeground": "#767676",
     "list.hoverBackground": "#e8e8e8",
     "settings.numberInputBorder": "#cecece",
